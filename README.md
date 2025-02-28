@@ -1,2 +1,1 @@
-# inteligjenca-artificjale
-ai
+
